@@ -8,7 +8,7 @@ Du kannst mit verschiedenen Farben und Pinselgrößen zeichnen, löschen, das Bi
 ## 🚀 Live-Demo
 
 👉 click [hier](https://jafar-alizadeh.github.io/paint-malen/) to see demo
-*(Ersetze `DeinRepoName` durch den tatsächlichen Namen deines GitHub-Repos, z. B. `paint-app`)*
+
 
 ---
 
